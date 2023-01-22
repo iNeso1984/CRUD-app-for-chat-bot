@@ -1,0 +1,14 @@
+Chatty Bot Mongo DB mongodb+srv://iNesso:sUMcrJOOZDjxM5uU@cluster0.ruzju0g.mongodb.net/?retryWrites=true&w=majority
+https://www.youtube.com/watch?v=CloazlUzTro
+
+
+Notes:
+Mongo db setup to store rest api-->free cluster
+
+installed:
+express, cors,dotenv,mongoose
+
+import using const...see server.js
+cont app--> sets the name app for easy viewing
+const port-->where it will run. 
+
